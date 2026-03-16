@@ -1,33 +1,51 @@
-## Hi there 👋
-I'm Sreeman Reddy Gokula, a " " studying in University of Alberta in Canada.
+# Hi there, I'm Sreeman Reddy Gokula 👋
 
-I'm looking for an Internship.
+I'm a **Computing Science student at the University of Alberta** — obsessed with building things that solve real-world problems. If an idea pops into my head, chances are I'll build it. I never give up.
 
-I design and built whatever I can imagine and feels like real-life problem solver.
+🔍 **Currently seeking a Software Engineering Internship (Summer/Fall 2026)**
 
-If a idea pops into my head, chances are I'll build it and I never give-up!
+---
 
-My main teach stact is :
+## 🛠️ Tech Stack
 
-My favourite project is Cross Platform Automation.
+**Languages:** Python · JavaScript · TypeScript · HTML/CSS  
+**Backend:** FastAPI · SQLAlchemy · Celery · REST APIs  
+**Frontend:** React · Vite · Tailwind CSS  
+**Databases:** PostgreSQL · Redis (Upstash) · Supabase  
+**Cloud & DevOps:** Docker · Cloudflare R2 · Railway · Vercel · GitHub Actions  
+**AI/APIs:** OpenAI API · TikTok OAuth · Instagram (Instaloader)
 
-How to reach me:
+---
 
+## 🚀 Favourite Project — [Cross-Platform-Automation](https://github.com/sreeman7/Cross-Platform-Automation)
 
+A portfolio-grade full-stack system that automates short-form video distribution from **Instagram Reels → TikTok**.
 
-Fun Fact:
+> Ingest URL → Process media → Generate AI caption → Publish → Track status in real time
 
-<!--
-**sreeman7/sreeman7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Built with a **FastAPI** backend, **Celery** async workers, **Cloudflare R2** storage, **OpenAI** captions, and a **React + Tailwind** dashboard. Deployed on Railway + Vercel with full CI/CD.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Other Projects
+
+- 🌐 **[Portfolio Website](https://github.com/sreeman7/Portfolio-Website)** — Responsive personal site built with plain HTML, CSS, and JavaScript
+- 🔦 **[Blackout Protocol OS](https://github.com/sreeman7/One-Stack_Blackout-Protocol-OS)** — Offline-first emergency decision support system for Alberta power outages (TypeScript)
+
+---
+
+## 📬 How to Reach Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/sreeman-reddy-gokula-3674b02b5/)
+- 🎥 [YouTube](https://www.youtube.com/@SreemanReddyGokula)
+- 📍 Based in Edmonton, Alberta, Canada
+
+---
+
+## ⚡ Fun Fact
+
+I build projects the way game developers build games — start with a mechanic, keep adding levels until it ships. My Cross-Platform-Automation repo went through **8 development phases** before reaching production-ready state.
+
+---
+
+*"I design and build whatever I can imagine — if it feels like a real-life problem solver, I'm in."*
