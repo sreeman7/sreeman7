@@ -2,7 +2,7 @@
 
 I'm a **Computing Science student at the University of Alberta** — obsessed with building things that solve real-world problems. If an idea pops into my head, chances are I'll build it. I never give up.
 
-🔍 **Currently seeking a Software Engineering Internship (Summer/Fall 2026)**
+🔍 **Currently seeking a Software Developer Internship or Cybersecurity Internship (Summer/Fall 2026)**
 
 ---
 
